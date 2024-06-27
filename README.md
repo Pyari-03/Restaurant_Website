@@ -1,2 +1,2 @@
 # Restaurant_Website
-Using HTML,CSS,JS
+Using HTML,CSS
